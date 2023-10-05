@@ -1,18 +1,9 @@
 # TP_ApiRestSinPaginacion
-# Datos del alumno👨‍🎓:
 
 * Nombre: Oropel, Marcos Jose
 * Legajo: 43986
 
-# Datos institucionales📚:
-
-* Universidad Tecnológica Nacional - Facultad Regional Mendoza
-* Cátedra: Desarrollo de Software
-* Comisión: 3K09
-* Turno: tarde
-* Año: 2023
-
-# Acerca de la entrega💾:
+# Acerca de la entrega:
 
 * Se entrega un modelod de persistencia de un diagrama de clases dado por la cátedra.
 * Existen las entidades, los repositorios de las mismas y una serie de enumeraciones para facilitar el trabajo
@@ -62,11 +53,12 @@
 para sincronizar la aplicación con render y recordar los pasos:
 https://www.youtube.com/watch?v=p8mta5Q7rx8&ab_channel=ColmenaTEC
 
-# LINKS:
+LINKS:
 GitHub:https://github.com/marcos1198/TP_ApiRestSinPaginacion.git
 Render:https://sinpaginacion.onrender.com
 Diagrama de clases:
 https://github.com/marcos1198/TP_ApiRestSinPaginacion/blob/c5f54103e44e75a01b13ddd6de58e40caef59e5b/DC_SinPaginacion.png
+Persona Api Request.postman_collection.json es el archivo con los metodos que utilizamos de postman:
+https://github.com/marcos1198/TP_ApiRestSinPaginacion/blob/main/Persona%20Api%20Request.postman_collection.json
 
-# Contacto☎️:
-* Email📩: m.oropel1198@gmail.com
+
