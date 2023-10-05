@@ -53,7 +53,7 @@
 para sincronizar la aplicación con render y recordar los pasos:
 https://www.youtube.com/watch?v=p8mta5Q7rx8&ab_channel=ColmenaTEC
 
-LINKS:
+#LINKS:
 GitHub:https://github.com/marcos1198/TP_ApiRestSinPaginacion.git
 Render:https://sinpaginacion.onrender.com
 Diagrama de clases:
