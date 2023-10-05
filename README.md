@@ -56,6 +56,7 @@ https://www.youtube.com/watch?v=p8mta5Q7rx8&ab_channel=ColmenaTEC
 solucione problemas para subir por la terminal los archivos con:
 https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/
 
+Nota:cree una persona con postman usando render
 # LINKS:
 GitHub:https://github.com/marcos1198/TP_ApiRestSinPaginacion.git
 Render:https://sinpaginacion.onrender.com
@@ -65,6 +66,6 @@ https://github.com/marcos1198/TP_ApiRestSinPaginacion/blob/c5f54103e44e75a01b13d
 Persona Api Request.postman_collection.json es el archivo con los metodos que utilizamos de postman:
 https://github.com/marcos1198/TP_ApiRestSinPaginacion/blob/main/Persona%20Api%20Request.postman_collection.json
 
-cree una persona con postman usando render
+
 
 
