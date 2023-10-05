@@ -53,6 +53,9 @@
 para sincronizar la aplicación con render y recordar los pasos:
 https://www.youtube.com/watch?v=p8mta5Q7rx8&ab_channel=ColmenaTEC
 
+solucione problemas para subir por la terminal los archivos con:
+https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/
+
 # LINKS:
 GitHub:https://github.com/marcos1198/TP_ApiRestSinPaginacion.git
 Render:https://sinpaginacion.onrender.com
